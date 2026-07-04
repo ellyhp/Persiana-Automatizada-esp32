@@ -12,7 +12,7 @@ Control inteligente de persiana motorizada vía botones físicos y app móvil, c
   <a href="https://www.instagram.com/ellygmr"><img src="https://img.shields.io/badge/Instagram-@ellygmr-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.tiktok.com/@ellygmr"><img src="https://img.shields.io/badge/TikTok-@ellygmr-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
   <a href="https://www.youtube.com/@ellygmr"><img src="https://img.shields.io/badge/YouTube-@ellygmr-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://www.facebook.com/ellygmr"><img src="https://img.shields.io/badge/Facebook-@ellygmr-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://www.facebook.com/profile.php?id=100092681746115"><img src="https://img.shields.io/badge/Facebook-@ellygmr-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </p>
 
 📹 Video del proyecto
@@ -152,5 +152,5 @@ Si lo construyes, ¡me encantaría verlo! Etiquétame en cualquiera de mis redes
   <a href="https://www.instagram.com/ellygmr">📸 Instagram</a> •
   <a href="https://www.tiktok.com/@ellygmr">🎵 TikTok</a> •
   <a href="https://www.youtube.com/@ellygmr">▶️ YouTube</a> •
-  <a href="https://www.facebook.com/ellygmr">👥 Facebook</a>
+  <a href="https://www.facebook.com/profile.php?id=100092681746115">👥 Facebook</a>
 </p>
