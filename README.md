@@ -6,7 +6,7 @@ Control inteligente de persiana motorizada vía botones físicos y app móvil, c
 
 
 <p align="center">
-  <img src="images/portada.jpg" alt="Persiana Automatizada" width="700"/>
+  <img src="images/portada.png" alt="Persiana Automatizada" width="700"/>
 </p>
 <p align="center">
   <a href="https://www.instagram.com/ellygmr"><img src="https://img.shields.io/badge/Instagram-@ellygmr-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
@@ -25,10 +25,7 @@ Control inteligente de persiana motorizada vía botones físicos y app móvil, c
 
 🖨️ Archivos STL para impresión 3D
 
-Los soportes y carcasas del proyecto están disponibles en MakerWorld:
-
-
-🔗 Descargar archivos STL en MakerWorld (próximamente — enlace en actualización)
+Los soportes y carcasas del proyecto están disponibles en MakerWorld: https://makerworld.com/es/models/3011631-esp32-smart-blind-controller-wifi-blynk
 
 
 
