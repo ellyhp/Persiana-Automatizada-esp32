@@ -104,6 +104,7 @@ GPIO  4 ---> Buzzer
 
 ## 📁 Estructura del repositorio
 
+```text
 Persiana-Automatizada-esp32/
 |
 |-- Codigo/
@@ -119,7 +120,7 @@ Persiana-Automatizada-esp32/
 |-- README.md
 |-- manual_persiana.pdf
 '-- manual_blynk_persiana.pdf
-
+```
 
 ---
 
