@@ -73,6 +73,8 @@ Fuente 12V
 ComponenteEspecificaciónUSDMXN aprox.ESP32 DevKit V1WiFi + Bluetooth, dual core$4.50 – $7.50$88 – $146Driver TB6612FNGDual H-bridge, 1.2A, hasta 15V$0.80 – $1.50$16 – $29Convertidor DC-DC LM2596Step-down ajustable 1.5V–35V$0.50 – $1.20$10 – $23Motor DC 12V 35RPMMotor de corriente continua con reductora$3.00 – $12.00$58 – $234Fuente de alimentación 12VMínimo 1–2A$3.50 – $8.00$68 – $1564 pulsadoresMomentáneos, tipo tact switch$0.50 – $1.00$10 – $20Buzzer activo3–5V, señal continua$0.30 – $0.80$6 – $16Cables y protoboard / PCBConexiones y soporte$1.50 – $3.00$29 – $58TOTAL$14.60 – $35$285 – $682
 
 
+
+
 💡 El LM2596 elimina la necesidad de una segunda fuente: toma los 12V del motor y los reduce a 5V para el ESP32. Una sola fuente alimenta todo el sistema.
 
 💱 Precios orientativos con envío estándar gratuito desde AliExpress. Tipo de cambio: ~$19.50 MXN/USD.
