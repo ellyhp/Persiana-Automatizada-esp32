@@ -13,8 +13,7 @@
 
 ## 📹 Video del proyecto
 
-> 🎬 **Proximamente** — El video con la explicacion completa estara disponible en mis redes. Sigueme para no perdertelo!
-
+> 🎬 https://www.tiktok.com/@ellygmr/video/7660350983762955541
 ---
 
 ## 🖨️ Archivos STL para impresion 3D
